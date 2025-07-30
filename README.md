@@ -27,4 +27,4 @@ Curioso e sempre explorando novas tecnologias para criar soluções incríveis.
 
 ### 📫 Como me encontrar:
 - 📧 [sideniroliveirarjr@gmail.com]
-- 💼 [LinkedIn: linkedin.com/in/sidenir-oliveira-rodrigues-junior-874076260](https://www.linkedin.com/in/sidenir-oliveira-rodrigues-junior-874076260/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sidenir-oliveira-rodrigues-junior-874076260/)
