@@ -46,10 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SidenirJr/SidenirJr/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social media</h2>
 
 ###
